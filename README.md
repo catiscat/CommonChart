@@ -16,7 +16,7 @@
 
 #### DataTable类 : 包含数据和维度两个关键元素
 
-包括 addDataSeries,addDimensionSeries  接口,用于生成dataTable
+包括 addSeries,setDimension  接口,用于生成dataTable
 
 ```js
 var data = new DataTable();
